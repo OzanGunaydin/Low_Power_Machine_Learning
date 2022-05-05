@@ -1,4 +1,4 @@
-# Low_Power_Machine_Learning
+# Low Power Machine Learning
 Neural Networks/Brain Computer Interface example
 (Low power machine learning with microcontroller)
 
